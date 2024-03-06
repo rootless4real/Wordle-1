@@ -1,4 +1,4 @@
-# Wordle
+# Java-based word guessing game
 This is a word game inspired by the original [Wordle](https://www.powerlanguage.co.uk/wordle/) to run in the command line.
 It can be played in english or in spanish.
 
